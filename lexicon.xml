@@ -233,6 +233,10 @@
     <phoneme>mdlo</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>menej</grapheme>
+    <phoneme>meɲej</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>milosrdenstva</grapheme>
     <phoneme>milosrɟenstva</phoneme>
   </lexeme>
@@ -259,6 +263,18 @@
   <lexeme>
     <grapheme>mrdol</grapheme>
     <phoneme>mrdol</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>mŕtvy</grapheme>
+    <phoneme>mr̩ːtvi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>mŕtveho</grapheme>
+    <phoneme>mr̩ːtveho</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>mŕtvym</grapheme>
+    <phoneme>mr̩ːtvim</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mršinami</grapheme>
@@ -299,6 +315,10 @@
   <lexeme>
     <grapheme>nejde</grapheme>
     <phoneme>ɲejɟe</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>nekonečného</grapheme>
+    <phoneme>ɲekoɲet͡ʃneːho</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>nekrológ</grapheme>
