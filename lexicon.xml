@@ -105,6 +105,10 @@
     <phoneme>hu͡oʎ</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>hŕba</grapheme>
+    <phoneme>hr̩ːba</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>chasníci</grapheme>
     <phoneme>xasɲiːt͡si</phoneme>
   </lexeme>
@@ -271,6 +275,14 @@
   <lexeme>
     <grapheme>mŕtveho</grapheme>
     <phoneme>mr̩ːtveho</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>mŕtvemu</grapheme>
+    <phoneme>mr̩ːtvemu</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>mŕtvom</grapheme>
+    <phoneme>mr̩ːtvom</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>mŕtvym</grapheme>
@@ -469,6 +481,10 @@
     <phoneme>primitiːvne</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>prinajmenej</grapheme>
+    <phoneme>prinajmeɲej</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>priučiť</grapheme>
     <phoneme>priut͡ʃic</phoneme>
   </lexeme>
@@ -559,6 +575,10 @@
   <lexeme>
     <grapheme>skľúčení</grapheme>
     <phoneme>skʎuːt͡ʃeniː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>skľučuje</grapheme>
+    <phoneme>skʎut͡ʃuje</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>slnká</grapheme>
@@ -653,6 +673,10 @@
     <phoneme>ciesk</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>tisli</grapheme>
+    <phoneme>cisli</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>title</grapheme>
     <phoneme>title</phoneme>
   </lexeme>
@@ -703,6 +727,10 @@
   <lexeme>
     <grapheme>vechsľu</grapheme>
     <phoneme>vexsʎu</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>vence</grapheme>
+    <phoneme>vent͡se</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>vŕb</grapheme>
