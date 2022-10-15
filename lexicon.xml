@@ -161,6 +161,14 @@
     <phoneme>ilt͡ʃiːt͡ʃkine</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>Jedon</grapheme>
+    <phoneme>jeden</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>jedon</grapheme>
+    <phoneme>jeden</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>just</grapheme>
     <phoneme>just</phoneme>
   </lexeme>
@@ -353,6 +361,14 @@
     <phoneme>ɲejɟe</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>Nejedon</grapheme>
+    <phoneme>ɲejeden</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>nejedon</grapheme>
+    <phoneme>ɲejeden</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>nekonečného</grapheme>
     <phoneme>ɲekoɲet͡ʃneːho</phoneme>
   </lexeme>
@@ -451,6 +467,10 @@
   <lexeme>
     <grapheme>pazďerí</grapheme>
     <phoneme>pazɟeriː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>podajedon</grapheme>
+    <phoneme>podajeden</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>podeň</grapheme>
